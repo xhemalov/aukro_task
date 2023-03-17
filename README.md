@@ -1,4 +1,4 @@
-# Aukro task
+# Entry task
 
 Entry task for interview.
 
